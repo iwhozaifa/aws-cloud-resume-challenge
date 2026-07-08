@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+
+.section-1 li {
+  display: flex;
+  justify-content: center;
+}
+
+.section-1 ul {
+  display: inline-block;
+  justify-content: center;
+}
