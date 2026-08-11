@@ -27,8 +27,14 @@ h2 {
 .ed1,
 .ed2 {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 0.5fr 0.5fr;
+  gap: 5px;
   margin: 0;
   padding: 0;
+}
 
+.date {
+  color: #030303;
+  margin-left: auto;
+  font-style: italic;
 }
